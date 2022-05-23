@@ -1,8 +1,16 @@
-# Welcome!
+# Welcome to w3Connect
 
-## Welcome to MyAPI
+## Introduction
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+Welcome to w3Connect!
+
+w3Connect is a blockchain infrastructure backing DeSoc. It comes with the latest theory on Blockchain sharding, Economic Proof of Work, and the Proxy Re-Encryption scheme to overcome the challenges from the existing blockchain predicament.
+
+w3Connect is an energy-saving, mining pool resistance, PoW-based blockchain. It supports high TPS and sharding, with messaging and file storage features. It supports social recovery for the non-transferable connections.
+
+## Our mission
+
+As a blockchain infrastructure, w3Connect is not going to replace any existing blockchains. w3Connect works with Ethereum, BSC, Polygon and other blockchains to provide the DeSoc features.
 
 ## Want to jump right in?
 
@@ -10,12 +18,4 @@ Feeling like an eager beaver? Jump in to the quick start docs and get making you
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)
-{% endcontent-ref %}
-
-## Want to deep dive?
-
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
-
-{% content-ref url="reference/api-reference/" %}
-[api-reference](reference/api-reference/)
 {% endcontent-ref %}
