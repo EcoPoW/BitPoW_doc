@@ -1,4 +1,4 @@
-# Table of contents
+# 目录
 
-* [认识 w3Connect](README.md)
-* [Quick Start](quick-start.md)
+* [认识 w3Connect](./)
+* [快速开始](quick-start.md)
