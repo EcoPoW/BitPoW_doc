@@ -11,7 +11,7 @@
 * [认识 w3Connect](zh/README.md)
   * [目录](zh/SUMMARY.md)
   * [社交恢复](zh/she-jiao-hui-fu.md)
-  * [聊天协议](zh/liao-tian-xie-yi.md)
+  * [链上聊天协议](zh/lian-shang-liao-tian-xie-yi.md)
   * [区块链存储](zh/qu-kuai-lian-cun-chu.md)
   * [去中心化](zh/qu-zhong-xin-hua.md)
   * [快速开始](zh/quick-start.md)
