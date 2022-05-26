@@ -16,6 +16,6 @@ w3Connect 采用的经济的工作量证明, 是一种节约能耗的, 去矿池
 
 想立即体验? 我们提供了早期代码，您可以运行本地命令行连接网络:
 
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
+{% content-ref url="quick-start-1.md" %}
+[quick-start-1.md](quick-start-1.md)
 {% endcontent-ref %}
